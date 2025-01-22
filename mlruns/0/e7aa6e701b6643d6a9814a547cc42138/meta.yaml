@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/networksecurity/mlruns/0/e7aa6e701b6643d6a9814a547cc42138/artifacts
+end_time: 1737568491776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7aa6e701b6643d6a9814a547cc42138
+run_name: ambitious-ant-973
+run_uuid: e7aa6e701b6643d6a9814a547cc42138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737568484616
+status: 3
+tags: []
+user_id: sivaj
